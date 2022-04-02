@@ -1,0 +1,186 @@
+[_tb_system_call storage=system/_scene_jc.ks]
+
+[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+[cm  ]
+[playse  volume="25"  time="1000"  buf="0"  loop="true"  storage="Festival01.ogg"  fadein="true"  ]
+[playse  volume="100"  time="1000"  buf="1"  fadein="true"  loop="true"  storage="hanabi_main.ogg"  ]
+[bg  time="600"  method="crossfade"  storage="other_toilet.jpg"  ]
+[chara_show  name="jc"  time="600"  wait="true"  storage="chara/1/target6-1.png"  width="800"  height="600"  ]
+[mask_off  time="1000"  effect="fadeOut"  ]
+*route_jc
+
+[tb_start_tyrano_code]
+[free_filter]
+[skipstop]
+[_tb_end_tyrano_code]
+
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+#主人公
+(This girl looks more interesting ...!)[p]
+#
+I decided to observe the girl's fate with a bitter decision.[p]
+#主人公
+(A line of about 10 more people in front of the girl ...)[p]
+(Can you really hold it in such a state ...)[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+#
+With great expectations in my heart, I carefully turn the small camera at hand and observe the girl.[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[wait  time="1500"  ]
+[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+[stopse  time="1000"  buf="0"  fadeout="true"  ]
+[stopse  time="1000"  buf="1"  fadeout="true"  ]
+[wait  time="1500"  ]
+[playse  volume="25"  time="1000"  buf="0"  loop="true"  storage="Festival01.ogg"  fadein="true"  ]
+[playse  volume="100"  time="1000"  buf="1"  fadein="true"  loop="true"  storage="hanabi_main.ogg"  ]
+[mask_off  time="1000"  effect="fadeOut"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+-5 minutes later-[p]
+The line went on and there were only four people left until the girl's turn.[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[tb_chara_shake  name="jc"  direction="y"  count="2"  swing="2"  time="100"  ]
+[wait  time="750"  ]
+[tb_chara_shake  name="jc"  direction="y"  count="2"  swing="3"  time="100"  ]
+[wait  time="500"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+She was a girl who had endured so far, but when she came here she began to writhe and apparently went crazy.[p]
+#主人公
+(Hey, isn't it dangerous anymore ...?)[p]
+#
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[tb_chara_shake  name="jc"  direction="y"  count="2"  swing="2"  time="100"  ]
+[wait  time="750"  ]
+[tb_chara_shake  name="jc"  direction="y"  count="2"  swing="3"  time="100"  ]
+[wait  time="500"  ]
+[playse  volume="53"  time="1000"  buf="5"  storage="geriomo2.ogg"  ]
+[playse  volume="47"  time="1000"  buf="3"  storage="geriomo.ogg"  ]
+[tb_chara_shake  name="jc"  direction="y"  count="3"  swing="3"  time="100"  ]
+[chara_mod  name="jc"  time="1000"  cross="false"  storage="chara/1/target6-2.png"  ]
+[tb_chara_shake  name="jc"  direction="y"  count="3"  swing="3"  time="100"  ]
+[wait  time="750"  ]
+[playse  volume="43"  time="1000"  buf="3"  storage="geriomo4.ogg"  ]
+[tb_chara_shake  name="jc"  direction="y"  count="2"  swing="2"  time="100"  ]
+[playse  volume="30"  time="1000"  buf="4"  storage="unchi_noguso.ogg"  ]
+[chara_mod  name="jc"  time="2000"  cross="false"  storage="chara/1/target6-3.png"  wait="false"  ]
+[tb_image_show  time="4000"  storage="default/target6-ex1.png"  width="800"  height="600"  wait="false"  name="img_45"  ]
+[tb_image_show  time="4000"  storage="default/target6-2yuge.png"  width="800"  height="600"  name="img_46"  ]
+[chara_mod  name="jc"  time="1000"  cross="false"  storage="chara/1/target6-3y.png"  wait="false"  ]
+[tb_image_hide  time="1000"  wait="false"  ]
+[tb_image_hide  time="1000"  wait="false"  ]
+[wait  time="2000"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+#主人公
+(!!? ...[l]It was a big success ...! !! )[p]
+
+
+
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+#
+It was a sudden event.[p]
+The girl's ass exploded with a dirty roar.[l]It was pure white that was dyed in a filthy color in an instant.[p]
+
+[_tb_end_text]
+
+[chara_mod  name="jc"  time="2000"  cross="false"  storage="chara/1/target6-3a.png"  wait="false"  ]
+[tb_start_text mode=1 ]
+#周囲の女性
+Oh, that ... are you okay? ...[p]
+#少女
+“……….”[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[wait  time="1500"  ]
+[bg  time="0"  method="crossfade"  storage="target6-3z.png"  ]
+[wait  time="500"  ]
+[chara_mod  name="jc"  time="1000"  cross="false"  storage="chara/1/target6-3.png"  ]
+[playse  volume="75"  time="600"  buf="3"  fadein="false"  storage="sandal_run3.ogg"  loop="true"  ]
+[tb_chara_shake  name="jc"  direction="x"  count="2"  swing="3"  time="600"  ]
+[chara_hide_all  time="1000"  wait="false"  ]
+[wait  time="1500"  ]
+[stopse  time="2000"  buf="3"  fadeout="true"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+The girl fluttered away to escape from the scene.[p]
+I immediately follow the girl.[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[wait  time="1500"  ]
+[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+[stopse  time="1000"  buf="0"  fadeout="true"  ]
+[stopse  time="1000"  buf="1"  fadeout="true"  ]
+[wait  time="1500"  ]
+[playse  volume="7"  time="1000"  buf="0"  loop="true"  storage="Festival01.ogg"  fadein="true"  ]
+[playse  volume="65"  time="1000"  buf="1"  fadein="true"  loop="true"  storage="hanabi_main.ogg"  ]
+[bg  time="1000"  method="crossfade"  storage="monokage.png"  ]
+[mask_off  time="1000"  effect="fadeOut"  ]
+[wait  time="1500"  ]
+[bg  time="1000"  method="crossfade"  storage="monokage.jpg"  ]
+[chara_show  name="jc"  time="1000"  wait="false"  storage="chara/1/target6-4.png"  width="800"  height="600"  ]
+[playse  volume="75"  time="1000"  buf="4"  storage="zubon_kinuzure.ogg"  ]
+[wait  time="1500"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+#少女
+Hmm ... Wow ... Seriously the worst ...[p]
+What are you doing ... this ...[l]Wow ... [p]
+#
+A poor girl who deals with defeat in the shadow.[p]
+Her pretty ass and shorts that have been stripped of feces eloquently tell the girl's blunder.[p]
+The girl in no underwear seems to be in a hurry to get first aid for her dirty skin with pocket tissue before anyone comes.[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[bg  time="1000"  method="crossfade"  storage="monokage.png"  ]
+[playse  volume="30"  time="1000"  buf="4"  storage="kinuzure.ogg"  ]
+[chara_hide_all  time="600"  wait="false"  ]
+[playse  volume="15"  time="600"  buf="3"  fadein="false"  storage="sandal_run3.ogg"  loop="true"  ]
+[wait  time="1000"  ]
+[stopse  time="2000"  buf="3"  fadeout="true"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+Then the girl took off her filthy junior shorts and she left in a hurry.[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+#主人公
+I saw something pretty good[p]
+And ... surely around here ...[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[playse  volume="30"  time="600"  buf="3"  fadein="false"  storage="sigemi.ogg"  loop="false"  ]
+[wait  time="1500"  ]
+[bg  time="1000"  method="crossfade"  storage="monokage.jpg"  ]
+[chara_show  name="jc"  time="600"  wait="false"  storage="chara/1/target6-5.png"  width="800"  height="600"  ]
+[wait  time="1500"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+#主人公
+Oh, there was ...![p]
+(I've done it flashy again)[p]
+Uh ... uh, it smells ...![p]
+#
+From the abandoned junior shorts, there was a terrible filth smell in the girl's belly.[p]
+I just put the shorts in the special plastic bag I had prepared.[p]
+
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[jump  storage="scene_mama.ks"  target="*otakara_end"  ]
+[s  ]

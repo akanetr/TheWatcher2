@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/other_toilet.png"  ]
+[preload  storage="./data/bgimage/other_toilet.jpg"  ]
+[preload  storage="./data/fgimage/chara/4/target4-2.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]

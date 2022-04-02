@@ -1,0 +1,7 @@
+[tb_clear_images][mask time=200][tb_replay_image_button  graphic="scene1-9.jpg"  storage="toilet_jd.ks"  target="*jd_toilet"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="150"  x="50"  y="250"  _tb_parts_type="replay_image_button"  id="jd"  ]
+[tb_replay_image_button  graphic="scene5-6.jpg"  storage="toilet_girl.ks"  target="*girl_toilet"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="150"  x="300"  y="250"  _tb_parts_type="replay_image_button"  id="girl"  ]
+[tb_replay_image_button  graphic="scene4-5.jpg"  storage="toilet_lady.ks"  target="*lady_toilet"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="150"  x="550"  y="250"  _tb_parts_type="replay_image_button"  id="lady"  ]
+[bg  time="1"  storage="gallery.jpg"  _tb_parts_type="bg"  ]
+[button  graphic="config/c_btn_back.png"  enterimg="config/c_btn_back2.png"  storage="title_screen.ks"  target=""  time="1"  width="80"  height="32"  x="690"  y="530"  _tb_parts_type="button"  ]
+[mask_off time=200] 
+[s] 

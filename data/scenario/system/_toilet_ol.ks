@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/toilet/scene1-1.jpg"  ]
+[preload  storage="./data/bgimage/toilet/scene3-2.jpg"  ]
+[preload  storage="./data/bgimage/toilet/scene3-3.jpg"  ]
+[preload  storage="./data/bgimage/toilet/scene3-4.jpg"  ]
+[preload  storage="./data/bgimage/toilet/scene3-5.jpg"  ]
+[preload  storage="./data/bgimage/toilet/scene3-6.jpg"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]
